@@ -12,7 +12,7 @@ This project involves a comprehensive analysis of Swiggy's order and delivery pe
 - **Success to Cancel Ratio:** 9.14
 
 ## Dashboard
-(https://github.com/shaun-mia/Swiggy-Data-Analysis)
+(https://github.com/shaun-mia/Swiggy-Data-Analysis](https://github.com/shaun-mia/Swiggy-Data-Analysis/blob/main/Swiggy%20Data%20Analysis%20Dashboard.png)
 
 ## Installation Setup
 1. **Download Power BI:** Ensure you have Power BI Desktop installed on your machine.
