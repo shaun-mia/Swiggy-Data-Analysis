@@ -1,8 +1,6 @@
 
 # Swiggy Data Analysis Dashboard
 
-![Swiggy Dashboard](https://github.com/shaun-mia/Swiggy-Data-Analysis)
-
 ## Project Overview
 This project involves a comprehensive analysis of Swiggy's order and delivery performance using Power BI. The dashboard provides insights into various key performance indicators (KPIs) and visualizes data through interactive charts and graphs for a user-friendly experience.
 
@@ -14,7 +12,7 @@ This project involves a comprehensive analysis of Swiggy's order and delivery pe
 - **Success to Cancel Ratio:** 9.14
 
 ## Dashboard
-![Swiggy Dashboard](https://github.com/shaun-mia/Swiggy-Data-Analysis)
+(https://github.com/shaun-mia/Swiggy-Data-Analysis)
 
 ## Installation Setup
 1. **Download Power BI:** Ensure you have Power BI Desktop installed on your machine.
